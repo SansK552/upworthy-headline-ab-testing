@@ -1,0 +1,5 @@
+length_bucket,package_count,test_count,total_impressions,total_clicks,overall_ctr,average_length
+"Short (<50)",435,273,1450832,16982,0.0117,42.0
+"Medium (50-79)",6557,2114,22843837,279396,0.0122,68.6
+"Long (80-109)",11369,2935,39802673,546240,0.0137,91.4
+"Very long (110+)",27,11,90957,920,0.0101,113.4

@@ -1,0 +1,27 @@
+# Raw data (too large; download link goes in README)
+data/raw/*
+!data/raw/.gitkeep
+
+# macOS
+.DS_Store
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and local databases
+.env
+*.key
+*.pem
+credentials*.json
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+
+# Big-file safety net
+*.zip
+*.parquet

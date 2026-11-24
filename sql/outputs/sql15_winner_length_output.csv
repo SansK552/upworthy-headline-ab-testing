@@ -1,0 +1,5 @@
+length_bucket,package_count,winner_count,winner_rate
+"Short (<50)",435,25,0.0575
+"Medium (50-79)",6557,335,0.0511
+"Long (80-109)",11369,536,0.0471
+"Very long (110+)",27,1,0.0370
